@@ -7,7 +7,7 @@ var CLOCK_ICON = 'https://cdn-icons-png.flaticon.com/128/2088/2088617.png';
 var onBtnClick = function (t) {
   return t.popup({
     title: 'Time Tracker',
-    url: 'time.html',
+    url: '/time.html',
   });
 }
 
