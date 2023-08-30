@@ -8,6 +8,7 @@ var onBtnClick = function (t) {
   return t.popup({
     title: 'Time Tracker',
     url: '/time.html',
+    height: 130
   });
 }
 
