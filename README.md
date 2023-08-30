@@ -2,7 +2,7 @@
 
 ### Glitch Hosted Custom Trello Power-Up
 
-Have an easier time tracking task times (👀 BCIT Projects courses)
+Have an easier time tracking task times &nbsp; <sub><sup>👀 BCIT Projects courses</sup></sub>
 
 - Display the estimated time in hours/minutes for each card (task)
 
