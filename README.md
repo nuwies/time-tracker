@@ -1,25 +1,15 @@
-# Glitch Hosted Sample Trello Power-Up 🚀
+## ⏲ Time Tracker ⏲
 
-Hey there 👋
+### Glitch Hosted Custom Trello Power-Up
 
-This is a bare-bones template for building a new Trello Power-Up. What does that mean for you? We hope it's a great starting point for you to remix, and make your own great Power-Up that makes Trello work even better for you. 
+Have an easier time tracking task times (👀 BCIT Projects courses)
 
-Once you remix this, you'll want to take a look at what the new name is. Click the `Show Live` button up in the top bar and grab that url and then head here:
+- Display the estimated time in hours/minutes for each card (task)
 
-👉  [https://trello.com/power-ups/admin](https://trello.com/power-ups/admin)
+<br>
 
----
+To add:
 
-Want more information about Power-Ups? 🤔
-
-👉  [https://developer.atlassian.com/cloud/trello/guides/power-ups/your-first-power-up/](https://developer.atlassian.com/cloud/trello/guides/power-ups/your-first-power-up/)
-
----
-
-Looking for a more _realistic_ example Power-Up? You may find the Trello Card Snooze Power-Up useful. 😴
-
-👉  [Trello Card Snooze Glitch Project](https://glitch.com/edit/#!/trellocardsnooze)
-
----
-
-Icons made by [Freepik](http://www.freepik.com) and [Vectors Market](http://www.flaticon.com/authors/vectors-market) from [www.flaticon.com](http://www.flaticon.com) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
+- Add section for actual time taken
+- Display the total estimated time / actual time
+- Separate values for each member

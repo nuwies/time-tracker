@@ -12,9 +12,10 @@
         display: flex;
         align-items: center;
       }
-      #hours, #minutes {
+      #hours,
+      #minutes {
         width: 60px;
-        margin: 10px
+        margin: 10px;
       }
     </style>
     <script src="https://p.trellocdn.com/power-up.min.js"></script>
@@ -23,11 +24,28 @@
     <form id="time">
       <div id="inputs">
         <label for="hours">Hours:</label>
-        <input id="hours" type="number" name="hours" min="0" value="0" required>
+        <input
+          id="hours"
+          type="number"
+          name="hours"
+          min="0"
+          value="0"
+          required
+        />
         <label for="minutes">Minutes:</label>
-        <input id="minutes" type="number" name="minutes" min="0" value="0" max="59" required>
+        <input
+          id="minutes"
+          type="number"
+          name="minutes"
+          min="0"
+          value="0"
+          max="59"
+          required
+        />
       </div>
       <button type="submit" class="mod-primary">Save</button>
     </form>
+
+    <script src="/js/time.js"></script>
   </body>
 </html>
