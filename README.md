@@ -1,4 +1,4 @@
-## ⏲ Time Tracker ⏲
+## 🕓 &nbsp; Time Tracker &nbsp; 🕓
 
 ### Glitch Hosted Custom Trello Power-Up
 
